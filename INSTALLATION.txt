@@ -1,0 +1,11 @@
+
+1. Place 'nkcruiser' folder to mods\update\x64\dlcpacks 
+2. Edit 'dlclist.xml' from mods\update\update.rpf\common\data 
+3. Add this line to <Item>dlcpacks:\nkcruiser\</Item> 
+4. Save and replace it 
+
+!!!!!!!!!!!!!!!!!!!!!
+
+If you want to have paintings as liveries on the SinglePlayer version, replace all files with "Optional"
+
+!!!!!!!!!!!!!!!!!!!!!
